@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\bin\Debug\Swicth-Case-Mevsim.exe.config
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\bin\Debug\Swicth-Case-Mevsim.exe
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\bin\Debug\Swicth-Case-Mevsim.pdb
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\obj\Debug\Swicth-Case-Mevsim.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\obj\Debug\Swicth_Case_Mevsim.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\obj\Debug\Swicth_Case_Mevsim.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\obj\Debug\Swicth-Case-Mevsim.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\obj\Debug\Swicth-Case-Mevsim.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\obj\Debug\Swicth-Case-Mevsim.exe
+C:\Users\pc\Desktop\visiual studio\Swicth-Case-Mevsim\obj\Debug\Swicth-Case-Mevsim.pdb
