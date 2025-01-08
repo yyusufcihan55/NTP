@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\bin\Debug\net8.0\Dikdörtgen-Class.exe
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\bin\Debug\net8.0\Dikdörtgen-Class.deps.json
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\bin\Debug\net8.0\Dikdörtgen-Class.runtimeconfig.json
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\bin\Debug\net8.0\Dikdörtgen-Class.dll
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\bin\Debug\net8.0\Dikdörtgen-Class.pdb
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\obj\Debug\net8.0\Dikdörtgen-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\obj\Debug\net8.0\Dikdörtgen-Class.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\obj\Debug\net8.0\Dikdörtgen-Class.AssemblyInfo.cs
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\obj\Debug\net8.0\Dikdörtgen-Class.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\obj\Debug\net8.0\Dikdörtgen-Class.dll
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\obj\Debug\net8.0\refint\Dikdörtgen-Class.dll
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\obj\Debug\net8.0\Dikdörtgen-Class.pdb
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\obj\Debug\net8.0\Dikdörtgen-Class.genruntimeconfig.cache
+C:\Users\pc\Desktop\visiual studio\Dikdörtgen-Class\obj\Debug\net8.0\ref\Dikdörtgen-Class.dll

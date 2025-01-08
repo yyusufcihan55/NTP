@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TuyZIqu2O0c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\visiual studio\\Dikdörtgen-Class\\Dikdörtgen-Class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

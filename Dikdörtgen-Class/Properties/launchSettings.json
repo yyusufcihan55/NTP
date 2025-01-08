@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Dikdörtgen-Class": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
