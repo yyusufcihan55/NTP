@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\bin\Debug\Sınıf-Kademesi.exe.config
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\bin\Debug\Sınıf-Kademesi.exe
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\bin\Debug\Sınıf-Kademesi.pdb
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\obj\Debug\Sınıf-Kademesi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\obj\Debug\Sınıf_Kademesi.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\obj\Debug\Sınıf_Kademesi.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\obj\Debug\Sınıf-Kademesi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\obj\Debug\Sınıf-Kademesi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\obj\Debug\Sınıf-Kademesi.exe
+C:\Users\pc\Desktop\visiual studio\Sınıf-Kademesi\obj\Debug\Sınıf-Kademesi.pdb
