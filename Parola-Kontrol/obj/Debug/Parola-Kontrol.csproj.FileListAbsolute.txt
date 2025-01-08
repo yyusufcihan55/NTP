@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\visiual studio\Parola-Kontrol\obj\Debug\Parola-Kontrol.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Parola-Kontrol\obj\Debug\Parola_Kontrol.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Parola-Kontrol\obj\Debug\Parola_Kontrol.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Parola-Kontrol\obj\Debug\Parola-Kontrol.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Parola-Kontrol\obj\Debug\Parola-Kontrol.csproj.CoreCompileInputs.cache
