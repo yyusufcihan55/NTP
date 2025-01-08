@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\bin\Debug\Tek-Cift-Ayırma.exe.config
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\bin\Debug\Tek-Cift-Ayırma.exe
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\bin\Debug\Tek-Cift-Ayırma.pdb
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\obj\Debug\Tek-Cift-Ayırma.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\obj\Debug\Tek_Cift_Ayırma.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\obj\Debug\Tek_Cift_Ayırma.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\obj\Debug\Tek-Cift-Ayırma.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\obj\Debug\Tek-Cift-Ayırma.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\obj\Debug\Tek-Cift-Ayırma.exe
+C:\Users\pc\Desktop\visiual studio\Tek-Cift-Ayırma\obj\Debug\Tek-Cift-Ayırma.pdb
