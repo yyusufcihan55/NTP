@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\bin\Debug\Not-Hesaplama.exe.config
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\bin\Debug\Not-Hesaplama.exe
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\bin\Debug\Not-Hesaplama.pdb
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\obj\Debug\Not-Hesaplama.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\obj\Debug\Not_Hesaplama.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\obj\Debug\Not_Hesaplama.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\obj\Debug\Not-Hesaplama.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\obj\Debug\Not-Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\obj\Debug\Not-Hesaplama.exe
+C:\Users\pc\Desktop\visiual studio\Not-Hesaplama\obj\Debug\Not-Hesaplama.pdb
