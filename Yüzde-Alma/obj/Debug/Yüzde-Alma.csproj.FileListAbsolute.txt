@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\bin\Debug\Yüzde-Alma.exe.config
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\bin\Debug\Yüzde-Alma.exe
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\bin\Debug\Yüzde-Alma.pdb
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\obj\Debug\Yüzde-Alma.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\obj\Debug\Yüzde_Alma.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\obj\Debug\Yüzde_Alma.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\obj\Debug\Yüzde-Alma.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\obj\Debug\Yüzde-Alma.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\obj\Debug\Yüzde-Alma.exe
+C:\Users\pc\Desktop\visiual studio\Yüzde-Alma\obj\Debug\Yüzde-Alma.pdb
