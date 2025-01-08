@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\bin\Debug\Ehliyet-Uygulaması.exe.config
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\bin\Debug\Ehliyet-Uygulaması.exe
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\bin\Debug\Ehliyet-Uygulaması.pdb
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\obj\Debug\Ehliyet-Uygulaması.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\obj\Debug\Ehliyet_Uygulaması.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\obj\Debug\Ehliyet_Uygulaması.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\obj\Debug\Ehliyet-Uygulaması.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\obj\Debug\Ehliyet-Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\obj\Debug\Ehliyet-Uygulaması.exe
+C:\Users\pc\Desktop\visiual studio\Ehliyet-Uygulaması\obj\Debug\Ehliyet-Uygulaması.pdb
