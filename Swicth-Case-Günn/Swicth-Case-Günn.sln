@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swicth-Case-Günn", "Swicth-Case-Günn.csproj", "{F615CAF4-925D-44B8-AD15-E90CB9E91280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F615CAF4-925D-44B8-AD15-E90CB9E91280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F615CAF4-925D-44B8-AD15-E90CB9E91280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F615CAF4-925D-44B8-AD15-E90CB9E91280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F615CAF4-925D-44B8-AD15-E90CB9E91280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F36570-48C1-4DE0-88C5-D01C4D7B7576}
+	EndGlobalSection
+EndGlobal
