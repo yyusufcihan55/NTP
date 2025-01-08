@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\bin\Debug\Skor-Hesaplama.exe.config
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\bin\Debug\Skor-Hesaplama.exe
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\bin\Debug\Skor-Hesaplama.pdb
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\obj\Debug\Skor-Hesaplama.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\obj\Debug\Skor_Hesaplama.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\obj\Debug\Skor_Hesaplama.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\obj\Debug\Skor-Hesaplama.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\obj\Debug\Skor-Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\obj\Debug\Skor-Hesaplama.exe
+C:\Users\pc\Desktop\visiual studio\Skor-Hesaplama\obj\Debug\Skor-Hesaplama.pdb
