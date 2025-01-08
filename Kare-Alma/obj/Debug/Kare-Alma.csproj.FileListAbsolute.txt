@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\bin\Debug\Kare-Alma.exe.config
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\bin\Debug\Kare-Alma.exe
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\bin\Debug\Kare-Alma.pdb
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\obj\Debug\Kare-Alma.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\obj\Debug\Kare_Alma.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\obj\Debug\Kare_Alma.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\obj\Debug\Kare-Alma.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\obj\Debug\Kare-Alma.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\obj\Debug\Kare-Alma.exe
+C:\Users\pc\Desktop\visiual studio\Kare-Alma\obj\Debug\Kare-Alma.pdb
