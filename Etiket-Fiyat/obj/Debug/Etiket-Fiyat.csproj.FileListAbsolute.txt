@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\bin\Debug\Etiket-Fiyat.exe.config
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\bin\Debug\Etiket-Fiyat.exe
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\bin\Debug\Etiket-Fiyat.pdb
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\obj\Debug\Etiket-Fiyat.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\obj\Debug\Etiket_Fiyat.Form1.resources
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\obj\Debug\Etiket_Fiyat.Properties.Resources.resources
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\obj\Debug\Etiket-Fiyat.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\obj\Debug\Etiket-Fiyat.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\obj\Debug\Etiket-Fiyat.exe
+C:\Users\pc\Desktop\visiual studio\Etiket-Fiyat\obj\Debug\Etiket-Fiyat.pdb
