@@ -1,0 +1,4 @@
+C:\Users\pc\Desktop\visiual studio\Buyuk-Sayı-Class\obj\Debug\net8.0\Buyuk-Sayı-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\visiual studio\Buyuk-Sayı-Class\obj\Debug\net8.0\Buyuk-Sayı-Class.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\visiual studio\Buyuk-Sayı-Class\obj\Debug\net8.0\Buyuk-Sayı-Class.AssemblyInfo.cs
+C:\Users\pc\Desktop\visiual studio\Buyuk-Sayı-Class\obj\Debug\net8.0\Buyuk-Sayı-Class.csproj.CoreCompileInputs.cache

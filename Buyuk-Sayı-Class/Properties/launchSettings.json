@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Buyuk-Sayı-Class": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
