@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\bin\Debug\Diziler_Personel.exe.config
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\bin\Debug\Diziler_Personel.exe
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\bin\Debug\Diziler_Personel.pdb
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\obj\Debug\Diziler_Personel.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\obj\Debug\Diziler_Personel.Form1.resources
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\obj\Debug\Diziler_Personel.Properties.Resources.resources
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\obj\Debug\Diziler_Personel.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\obj\Debug\Diziler_Personel.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\obj\Debug\Diziler_Personel.exe
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Diziler_Personel\obj\Debug\Diziler_Personel.pdb
