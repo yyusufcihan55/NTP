@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\bin\Debug\net8.0\InterFaceeUygulama.exe
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\bin\Debug\net8.0\InterFaceeUygulama.deps.json
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\bin\Debug\net8.0\InterFaceeUygulama.runtimeconfig.json
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\bin\Debug\net8.0\InterFaceeUygulama.dll
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\bin\Debug\net8.0\InterFaceeUygulama.pdb
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\obj\Debug\net8.0\InterFaceeUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\obj\Debug\net8.0\InterFaceeUygulama.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\obj\Debug\net8.0\InterFaceeUygulama.AssemblyInfo.cs
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\obj\Debug\net8.0\InterFaceeUygulama.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\obj\Debug\net8.0\InterFaceeUygulama.dll
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\obj\Debug\net8.0\refint\InterFaceeUygulama.dll
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\obj\Debug\net8.0\InterFaceeUygulama.pdb
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\obj\Debug\net8.0\InterFaceeUygulama.genruntimeconfig.cache
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\InterFaceeUygulama\obj\Debug\net8.0\ref\InterFaceeUygulama.dll
