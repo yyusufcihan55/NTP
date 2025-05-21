@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Hayvanlarrİnterface": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
