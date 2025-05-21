@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Metot_Uygulaması": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

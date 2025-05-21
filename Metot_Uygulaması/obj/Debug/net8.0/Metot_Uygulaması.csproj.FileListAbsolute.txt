@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\bin\Debug\net8.0\Metot_Uygulaması.exe
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\bin\Debug\net8.0\Metot_Uygulaması.deps.json
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\bin\Debug\net8.0\Metot_Uygulaması.runtimeconfig.json
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\bin\Debug\net8.0\Metot_Uygulaması.dll
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\bin\Debug\net8.0\Metot_Uygulaması.pdb
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\obj\Debug\net8.0\Metot_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\obj\Debug\net8.0\Metot_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\obj\Debug\net8.0\Metot_Uygulaması.AssemblyInfo.cs
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\obj\Debug\net8.0\Metot_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\obj\Debug\net8.0\Metot_Uygulaması.dll
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\obj\Debug\net8.0\refint\Metot_Uygulaması.dll
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\obj\Debug\net8.0\Metot_Uygulaması.pdb
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\obj\Debug\net8.0\Metot_Uygulaması.genruntimeconfig.cache
+C:\Users\pc\Desktop\Visual Studio 2.Dönem\Metot_Uygulaması\obj\Debug\net8.0\ref\Metot_Uygulaması.dll
