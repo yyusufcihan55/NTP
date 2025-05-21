@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHKmqHCqg64=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\Visual Studio 2.Dönem\\Get_SetUyg\\Get_SetUyg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

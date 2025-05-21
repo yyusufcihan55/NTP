@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Get_SetUyg": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
