@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "hhashtableUygg": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
