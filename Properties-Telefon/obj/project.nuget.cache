@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vgQLvGlNbEI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\visiual studio\\Properties-Telefon\\Properties-Telefon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

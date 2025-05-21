@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Properties-Telefon": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
